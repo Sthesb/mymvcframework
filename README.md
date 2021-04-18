@@ -1,4 +1,4 @@
-# mymvcframework
+# My MVC Framework
 
 ## Hello, world!
 This is a custom mcv framework named KodaBox Framework
